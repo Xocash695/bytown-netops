@@ -1,0 +1,5 @@
+Q1: 4269aee1
+Q2: 3
+Q3: git pull
+Q4: yes it is safe because the file isn't being uploaded to GitHub and the file will only stay locally on the machine
+Q5: git branch -d old-fix , git push origin --delete old-fix
